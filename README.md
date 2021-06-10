@@ -1,2 +1,2 @@
 # dht22lkm
-first trywith linux kernel modules
+first try with linux kernel modules
